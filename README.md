@@ -1,5 +1,5 @@
 # 🌟 Discord-Image-Logger 🌟
-🌟A new fully undetectable Logger.  [Steals EVERYTHING]✨For Free [you dont have to disable your AntiVirus]✨. Please read the README file before
+🌟A new fully undetectable Logger.  [Steals EVERYTHING]✨For Free.
 ✨Thanks to Encme & Talaxsice for helping with discord token protection
 
 # 🌟 Features 🌟
